@@ -1,6 +1,7 @@
-package Teste;
+package assunto03_exercicio02.Teste;
 
-import Filas.FilaInt;
+
+import assunto03_exercicio02.Filas.FilaInt;
 
 public class MainTeste {
     public static void main(String[] args) {

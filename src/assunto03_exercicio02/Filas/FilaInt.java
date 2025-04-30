@@ -1,4 +1,4 @@
-package Filas;
+package assunto03_exercicio02.Filas;
 
 public class FilaInt {
     final int N = 3;
